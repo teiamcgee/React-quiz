@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url(https://images.pexels.com/photos/5258/addiction-bet-betting-casino.jpg?h=350&auto=compress&cs=tinysrgb);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.Guesses{
+  height: 50px;
+  width: 50px;
+  border: 2px red solid;
+}
+
+.Banner{
+  text-align: center;
+  color: Red;
+  height: 500px;
+  width: 500px;
+  background-color: rgba(116, 127, 185, .5);
+  margin: 0 auto;
+}
+button{
+ margin: 20px;
+}
